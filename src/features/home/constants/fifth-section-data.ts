@@ -1,4 +1,4 @@
-import type { SectionData } from "../../../@types/fifth-section-type";
+import type { SectionData } from "../types/fifth-section-type";
 
 export const data: SectionData = [
   {
