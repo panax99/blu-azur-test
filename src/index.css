@@ -1,1 +1,8 @@
 @import "tailwindcss";
+@import "swiper/css";
+
+@theme {
+  --color-primary: #4097FF;
+  --color-secondary: #2161AE;
+  --font-mulish: "Mulish", sans-serif;
+}
